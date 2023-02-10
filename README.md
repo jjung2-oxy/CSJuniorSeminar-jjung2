@@ -1,3 +1,3 @@
 # CSJuniorSeminar-jjung2
 
-Change the HelloWorld.oy file.
+Change the HelloWorld.py file.
