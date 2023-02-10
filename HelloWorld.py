@@ -1,3 +1,3 @@
-# Change to print "Hello World" to the terminal window
+# Change so that the console will print "Hello World"
 
 print("")
